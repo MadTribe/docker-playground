@@ -3,6 +3,10 @@
 
 ## Technology Stack
 
+client simple next.js page
+
+backend graphql
+
 
 ### Service 
 
